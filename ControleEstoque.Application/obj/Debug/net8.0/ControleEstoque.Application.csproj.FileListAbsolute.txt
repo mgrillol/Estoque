@@ -1,0 +1,15 @@
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\bin\Debug\net8.0\ControleEstoque.Application.deps.json
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\bin\Debug\net8.0\ControleEstoque.Application.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\bin\Debug\net8.0\ControleEstoque.Application.pdb
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\bin\Debug\net8.0\ControleEstoque.Domain.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\bin\Debug\net8.0\ControleEstoque.Domain.pdb
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\Controle.F394D88C.Up2Date
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\refint\ControleEstoque.Application.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ControleEstoque.Application.pdb
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Application\obj\Debug\net8.0\ref\ControleEstoque.Application.dll

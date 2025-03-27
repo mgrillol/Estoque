@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.infraestructure\\data\\estoquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|solutionrelative:controleestoque.infraestructure\\data\\estoquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.domain\\controleestoque.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|solutionrelative:controleestoque.domain\\controleestoque.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.infraestructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|solutionrelative:controleestoque.infraestructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.application\\queries\\getprodutoporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|solutionrelative:controleestoque.application\\queries\\getprodutoporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.application\\commands\\updateprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|solutionrelative:controleestoque.application\\commands\\updateprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.application\\commands\\createprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|solutionrelative:controleestoque.application\\commands\\createprodutocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.domain\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|solutionrelative:controleestoque.domain\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DE2FF-3C87-48CA-B8EC-9251E0A4326B}|ControleEstoque.Domain\\ControleEstoque.Domain.csproj|solutionrelative:controleestoque.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.application\\controleestoque.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{820DFD80-3BCF-4EE1-91E0-D0C91B4EA33F}|ControleEstoque.Application\\ControleEstoque.Application.csproj|solutionrelative:controleestoque.application\\controleestoque.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.infraestructure\\controleestoque.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{739CF235-36DD-4719-9F4F-138C3711F696}|ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj|solutionrelative:controleestoque.infraestructure\\controleestoque.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|c:\\users\\mathe\\source\\repos\\controleestoque\\controleestoque.api\\controleestoque.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E6E7349-5FAF-4F62-83FD-BED0B746FB76}|ControleEstoque.API\\ControleEstoque.API.csproj|solutionrelative:controleestoque.api\\controleestoque.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\Program.cs",
+              "RelativeToolTip": "ControleEstoque.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:48:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProdutoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Commands\\UpdateProdutoCommand.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Application\\Commands\\UpdateProdutoCommand.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Commands\\UpdateProdutoCommand.cs",
+              "RelativeToolTip": "ControleEstoque.Application\\Commands\\UpdateProdutoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:53:53.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Infraestructure\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ControleEstoque.Infraestructure\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:26:16.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ControleEstoque.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:44:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstoqueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\Data\\EstoqueDbContext.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Infraestructure\\Data\\EstoqueDbContext.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\Data\\EstoqueDbContext.cs",
+              "RelativeToolTip": "ControleEstoque.Infraestructure\\Data\\EstoqueDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:29:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControleEstoque.Domain",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\ControleEstoque.Domain.csproj",
+              "RelativeDocumentMoniker": "ControleEstoque.Domain\\ControleEstoque.Domain.csproj",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\ControleEstoque.Domain.csproj",
+              "RelativeToolTip": "ControleEstoque.Domain\\ControleEstoque.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:22:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProdutoPorIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Queries\\GetProdutoPorIdQuery.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Application\\Queries\\GetProdutoPorIdQuery.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Queries\\GetProdutoPorIdQuery.cs",
+              "RelativeToolTip": "ControleEstoque.Application\\Queries\\GetProdutoPorIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:01:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProdutoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Commands\\CreateProdutoCommand.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Application\\Commands\\CreateProdutoCommand.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\Commands\\CreateProdutoCommand.cs",
+              "RelativeToolTip": "ControleEstoque.Application\\Commands\\CreateProdutoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:36:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Domain\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "ControleEstoque.Domain\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:22:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "ControleEstoque.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "ControleEstoque.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:18:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControleEstoque.Application",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\ControleEstoque.Application.csproj",
+              "RelativeDocumentMoniker": "ControleEstoque.Application\\ControleEstoque.Application.csproj",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Application\\ControleEstoque.Application.csproj",
+              "RelativeToolTip": "ControleEstoque.Application\\ControleEstoque.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:22:01.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ControleEstoque.Infraestructure",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj",
+              "RelativeToolTip": "ControleEstoque.Infraestructure\\ControleEstoque.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:22:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ControleEstoque.API",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\ControleEstoque.API.csproj",
+              "RelativeDocumentMoniker": "ControleEstoque.API\\ControleEstoque.API.csproj",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleEstoque\\ControleEstoque.API\\ControleEstoque.API.csproj",
+              "RelativeToolTip": "ControleEstoque.API\\ControleEstoque.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T14:22:01.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\bin\Debug\net8.0\ControleEstoque.Domain.deps.json
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\bin\Debug\net8.0\ControleEstoque.Domain.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\bin\Debug\net8.0\ControleEstoque.Domain.pdb
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\refint\ControleEstoque.Domain.dll
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ControleEstoque.Domain.pdb
+C:\Users\mathe\source\repos\ControleEstoque\ControleEstoque.Domain\obj\Debug\net8.0\ref\ControleEstoque.Domain.dll

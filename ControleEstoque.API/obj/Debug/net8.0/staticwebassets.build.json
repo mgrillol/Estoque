@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0uli0zaX2t5dZryaZgxRCtJS8jDEiZjraYzM8cJMxrM=",
+  "Source": "ControleEstoque.API",
+  "BasePath": "_content/ControleEstoque.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
